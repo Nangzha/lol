@@ -1,4 +1,21 @@
-
+############################################################################################################################################################                      
+#                                  |  ___                           _           _              _             #              ,d88b.d88b                     #                                 
+# Title        : JumpScare         | |_ _|   __ _   _ __ ___       | |   __ _  | | __   ___   | |__    _   _ #              88888888888                    #           
+# Author       : I am Jakoby       |  | |   / _` | | '_ ` _ \   _  | |  / _` | | |/ /  / _ \  | '_ \  | | | |#              `Y8888888Y'                    #           
+# Version      : 1.0               |  | |  | (_| | | | | | | | | |_| | | (_| | |   <  | (_) | | |_) | | |_| |#               `Y888Y'                       #
+# Category     : Prank             | |___|  \__,_| |_| |_| |_|  \___/   \__,_| |_|\_\  \___/  |_.__/   \__, |#                 `Y'                         #
+# Target       : Windows 10,11     |                                                                   |___/ #           /\/|_      __/\\                  #     
+# Mode         : HID               |                                                           |\__/,|   (`\ #          /    -\    /-   ~\                 #             
+#                                  |  My crime is that of curiosity                            |_ _  |.--.) )#          \    = Y =T_ =   /                 #      
+#                                  |   and yea curiosity killed the cat                        ( T   )     / #   Luther  )==*(`     `) ~ \   Hobo          #                                                                                              
+#                                  |    but satisfaction brought him back                     (((^_(((/(((_/ #          /     \     /     \                #    
+#__________________________________|_________________________________________________________________________#          |     |     ) ~   (                #
+#  tiktok.com/@i_am_jakoby                                                                                   #         /       \   /     ~ \               #
+#  github.com/I-Am-Jakoby                                                                                    #         \       /   \~     ~/               #         
+#  twitter.com/I_Am_Jakoby                                                                                   #   /\_/\_/\__  _/_/\_/\__~__/_/\_/\_/\_/\_/\_#                     
+#  instagram.com/i_am_jakoby                                                                                 #  |  |  |  | ) ) |  |  | ((  |  |  |  |  |  |#              
+#  youtube.com/c/IamJakoby                                                                                   #  |  |  |  |( (  |  |  |  \\ |  |  |  |  |  |#
+############################################################################################################################################################
 
 <#
 .NOTES
@@ -14,16 +31,16 @@
 
 # Download Image; replace link to $image to add your own image
 
-$image =  "https://i0.wp.com/securenews.ru/wp-content/uploads/2017/02/hacked.jpg"
+$image =  "https://i0.wp.com/telochki.org/uploads/posts/2022-08/1661430383_42-telochki-org-p-golaya-seksualnaya-yaponka-erotika-brazzer-46.jpg"
 
 $i = -join($image,"?dl=1")
 iwr $i -O $env:TMP\i.png
 
-iwr https://i0.wp.com/securenews.ru/wp-content/uploads/2017/02/hacked.jpg?dl=1 -O $env:TMP\i.png
+iwr https://i0.wp.com/telochki.org/uploads/posts/2022-08/1661430383_42-telochki-org-p-golaya-seksualnaya-yaponka-erotika-brazzer-46.jpg?dl=1 -O $env:TMP\i.png
 
 # Download WAV file; replace link to $wav to add your own sound
 
-$wav = "https://github.com/I-Am-Jakoby/hak5-submissions/blob/main/OMG/Payloads/OMG-JumpScare/female_scream.wav?raw=true"
+$wav = "https://github.com/Nangzha/lol/blob/main/1.wav?raw=true"
 
 $w = -join($wav,"?dl=1")
 iwr $w -O $env:TMP\s.wav
