@@ -40,7 +40,7 @@ iwr https://i0.wp.com/telochki.org/uploads/posts/2022-08/1661430383_42-telochki-
 
 # Download WAV file; replace link to $wav to add your own sound
 
-$wav = "https://github.com/Nangzha/lol/blob/main/?raw=true"
+$wav = "https://github.com/Nangzha/lol/blob/main/Yamete_Kudasai.wav?raw=true"
 
 $w = -join($wav,"?dl=1")
 iwr $w -O $env:TMP\s.wav
