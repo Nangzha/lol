@@ -1,0 +1,1 @@
+.\safeencrypt.ps1 -SourcePath "D:\ransom" -Password "YourPassword"
