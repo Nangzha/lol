@@ -1,0 +1,8 @@
+Invoke-WebRequest "https://raw.githubusercontent.com/Nangzha/lol/refs/heads/main/msg.ps1" -OutFile msg.ps1
+
+     
+.\msg.ps1
+
+
+MsgBox -message 'this is the message body' -title "this is the title" -button OKCancel -image Warning
+
