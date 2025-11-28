@@ -13,3 +13,8 @@ TSCTF{PrasatBakong_1709}
 Lake
 TSCTF{13.7492058N, 106.9838245E}
 TSCTF{13.7492058, 106.9838245}
+
+malware
+
+TSCTF{AsyncRAT_NYANxCAT}
+TSCTF{AgentTesla_AgentTeslaTeam}
